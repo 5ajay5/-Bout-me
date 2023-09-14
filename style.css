@@ -96,9 +96,6 @@ a.nav-link{
 	align-items: center;
 	justify-content: space-evenly;
 }
-.name{
-  font-size: 70px;
-}
 
 #home .filter{
 	background: url('background.jpg') no-repeat;
@@ -132,7 +129,7 @@ a.nav-link{
     letter-spacing: normal;
     font-family: var(--main-font-family);
 	font-style: normal;
-	font-size: 60px;
+	font-size: 70px;
 	color: var(--main-fonts-color);
 	text-shadow: 0px 0px 40px var(--main-decor-color);
 }
